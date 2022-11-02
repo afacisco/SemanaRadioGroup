@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SemanaRadioGroup</string>
+    <string name="mensajeSaludo">Bienvenido al ... </string>
+    <string name="cadDia1">Lunes</string>
+    <string name="cadDia2">Martes</string>
+    <string name="cadDia3">Miércoles</string>
+    <string name="cadDia4">Jueves</string>
+    <string name="cadDia5">Viernes</string>
+    <string name="cadDia6">Sábado</string>
+    <string name="cadDia7">Domingo</string>
+</resources>
